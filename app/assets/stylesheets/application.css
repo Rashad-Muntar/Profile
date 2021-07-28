@@ -311,8 +311,8 @@ nav .wrapper .head-icon:hover{
 .profile-txt{
     color: rgb(221, 221, 221);
     margin-bottom: 35px;
-    font-size: 1.4em;
-    line-height: 1.8em;
+    font-size: 1.1em;
+    line-height: 1.5em;
     font-family: 'Inconsolata', monospace;
 }
 
@@ -356,8 +356,6 @@ nav .wrapper .head-icon:hover{
 .about-me-wrapper .tools .items span{
     padding-right: 10px;
     color: rgb(221, 221, 221);
-    font-size: 1.2em;
-    
 }
 
 .contact_wrapper > div{
@@ -449,6 +447,22 @@ nav .wrapper .head-icon:hover{
     
  }
 
+.resume{
+    background-color: #3EB489;
+    padding: 7px 14px;
+    border-radius: 7px;
+    color: #262626;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 400ms;
+}
+
+.resume:hover{
+    background-color: #299b71;
+    color: #262626;
+    text-decoration: none;
+}
+
 
 .contact_wrapper .contact form textarea{
     border: none;
@@ -467,9 +481,9 @@ nav .wrapper .head-icon:hover{
 
  .cta{
      color: white;
-     font-size: 1.4em;
+     font-size: 1.1em;
      font-family: 'Inconsolata', monospace;
-     line-height: 1.8em;
+     line-height: 1.5em;
  }
 
  .card-title{
